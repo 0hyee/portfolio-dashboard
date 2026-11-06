@@ -1,0 +1,26 @@
+name: daily-refresh
+
+on:
+  schedule:
+    - cron: "0 22 * * 0-4"  # 평일 07:00 KST (미국 장 마감 후)
+  workflow_dispatch:
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect prices and indicators
+        env:
+          POSITIONS_JSON: ${{ secrets.POSITIONS_JSON }}
+        run: python collect.py
+      - name: Build static datasets
+        run: python build_static.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dashboard-data
+          path: data/
+          retention-days: 3

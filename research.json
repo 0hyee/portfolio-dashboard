@@ -1,0 +1,374 @@
+{
+ "asof": "2026-11-06",
+ "disclaimer_ko": "본 자료는 사실 정리용이며 매수·매도 권유가 아닙니다. 일부 수치는 2차 출처 기반이며 'unverified'/'미확인' 표기를 확인하세요.",
+ "news": [
+  {
+   "ticker": "396500.KS",
+   "date": "2026-11-06",
+   "headline_ko": "코스피 이틀 연속 폭락, 6일 서킷브레이커 발동…삼성전자 -8%, SK하이닉스 -10%",
+   "summary_ko": "코스피는 11월 5일 5% 넘게 하락한 데 이어 6일 6.02% 급락한 5,059로 9개월 저점을 기록했고, 개장 직후 서킷브레이커로 20분간 거래가 정지됐습니다. 삼성전자는 5일 -7.57%, 6일 -7.99%, SK하이닉스는 -9.46%, -9.97% 하락했으며, 미래에셋 공식 페이지 기준 TIGER 반도체TOP10 NAV는 6일 -8.62%로 표시됐습니다.",
+   "impact": "불리",
+   "impact_reason_ko": "ETF 비중의 절반 이상인 삼성전자·SK하이닉스가 미 중간선거 후 AI 규제 우려 및 미국 반도체 급락 여파로 동반 급락해 ETF 가치가 직접 하락했습니다.",
+   "source": "Trading Economics (South Korea Stock Market); Mirae Asset TIGER ETF 상품 페이지",
+   "url": "https://tradingeconomics.com/south-korea/stock-market"
+  },
+  {
+   "ticker": "396500.KS",
+   "date": "2026-10-29",
+   "headline_ko": "삼성전자 3분기 영업이익 107.4조원…국내 기업 첫 분기 100조 돌파",
+   "summary_ko": "삼성전자는 3분기 매출 195.25조원, 영업이익 107.44조원(전년 대비 +783%)을 발표했고 DS(반도체) 부문이 영업이익의 99.1%(106.5조원)를 차지했습니다. 내년 HBM 공급 물량은 이미 완판됐으며 3분기 HBM4 매출이 전분기 대비 3배 이상 늘어 HBM 매출의 약 60%를 차지했다고 밝혔습니다.",
+   "impact": "유리",
+   "impact_reason_ko": "ETF 최대 편입 종목의 반도체 이익과 HBM 수요가 실적으로 확인돼 ETF의 핵심 투자 논리(메모리 슈퍼사이클)를 뒷받침합니다. 단, 메모리 주가는 이익 정점 전에 먼저 꺾이는 경향이 있어 사상 최대 실적이 곧 주가 상승 근거는 아닙니다.",
+   "source": "CEO스코어데일리",
+   "url": "https://ceoscoredaily.com/page/view/2026102910375293259"
+  },
+  {
+   "ticker": "396500.KS",
+   "date": "2026-10-20",
+   "headline_ko": "외국인, SK하이닉스 18거래일 연속 순매도…솔리다임 중복상장 논란",
+   "summary_ko": "외국인은 9월 21일부터 SK하이닉스를 18거래일 연속 순매도했고, 자회사 솔리다임의 나스닥 상장 추진이 '중복상장' 논란을 낳으며 SK스퀘어·SK㈜도 5~6% 급락했습니다. (이후 10월 23일 SK하이닉스는 솔리다임 상장 철회를 공시)",
+   "impact": "불리",
+   "impact_reason_ko": "SK하이닉스와 그 최대주주 SK스퀘어가 ETF의 약 52%를 차지해 SK그룹 지배구조 이슈에 따른 수급 이탈이 ETF에 크게 반영됩니다.",
+   "source": "YTN",
+   "url": "https://www.ytn.co.kr/_ln/0102_202610201827531723"
+  },
+  {
+   "ticker": "442580.KS",
+   "date": "2026-11-05",
+   "headline_ko": "미 증시 AI·반도체 폭락…마이크론 -17.5%, 샌디스크 -22.3%, 나스닥 -5.5%",
+   "summary_ko": "11월 5일 미국에서 민주당의 의회 장악 시 AI 규제 강화·데이터센터 확장 둔화 우려가 부각되며 나스닥이 5.5% 급락해 조정 국면에 진입했고, 마이크론 -17.5%, 샌디스크 -22.3%, 엔비디아 약 -9.3%를 기록했습니다. 6일 미 선물은 저가매수와 양호한 고용지표로 반등(마이크론 +8.9%)했습니다.",
+   "impact": "불리",
+   "impact_reason_ko": "ETF의 약 30%를 차지하는 마이크론·샌디스크와 장비주(어플라이드·램리서치)가 AI 투자 둔화 우려의 직격탄을 맞았습니다.",
+   "source": "Trading Economics (United States Stock Market)",
+   "url": "https://tradingeconomics.com/united-states/stock-market"
+  },
+  {
+   "ticker": "442580.KS",
+   "date": "2026-10-28",
+   "headline_ko": "SK하이닉스 3분기 매출 104.6조·영업이익 83.3조 '사상 최대'…2026년 주주환원 약 100조",
+   "summary_ko": "SK하이닉스는 3분기 매출 104.62조원, 영업이익 83.33조원(잠정)을 발표했고, 4분기부터 HBM4가 주력이 되며 2027~2028년 생산능력의 절반 이상이 장기계약으로 확보됐다고 밝혔습니다. 2026년 총 약 100조원(현금배당 30조원 이상, 자사주 매입·소각 60조원 이상)의 주주환원 계획도 내놓았습니다.",
+   "impact": "유리",
+   "impact_reason_ko": "ETF 2위 편입 종목의 HBM 장기계약·수요 초과 전망은 HBM 테마 ETF의 투자 논리를 직접 강화합니다. 단, 메모리 주가는 이익 정점 전에 먼저 꺾이는 경향이 있어 사상 최대 실적이 곧 주가 상승 근거는 아닙니다.",
+   "source": "Let's Data Science (SK hynix 실적 요약)",
+   "url": "https://letsdatascience.com/news/sk-hynix-posts-record-q3-profit-and-100-trillion-won-payout-1458a688"
+  },
+  {
+   "ticker": "442580.KS",
+   "date": "2026-10-23",
+   "headline_ko": "SK하이닉스, 솔리다임 상장 철회 공시…주가 4.42% 반등",
+   "summary_ko": "SK하이닉스는 10월 23일 개장 전 자회사 솔리다임의 상장 추진을 철회한다고 공시했고, 당일 주가는 4.42% 오르며 마감했습니다. 증권가는 중복상장에 따른 기업가치 할인·지분 희석 우려를 덜었다고 평가했습니다.",
+   "impact": "유리",
+   "impact_reason_ko": "ETF의 약 25%를 차지하는 SK하이닉스의 주주가치 훼손 우려가 해소돼 수급 부담이 완화될 수 있습니다.",
+   "source": "스페셜타임스 (연합뉴스 인용)",
+   "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=477732"
+  },
+  {
+   "ticker": "VIST",
+   "date": "2026-10-28",
+   "headline_ko": "비스타 에너지 3분기 생산 16.9만 boe/d '사상 최대'…조정 EBITDA 78% 증가",
+   "summary_ko": "비스타는 3분기 평균 생산량 약 169,000 boe/d(전년 대비 +33%), 매출 12.3억 달러(+75%), 조정 EBITDA 8.41억 달러(+78%), 실현 유가 84.2달러/배럴을 기록했습니다(에퀴노르 자산 편입 첫 완전 분기). 2027년 생산 목표 185,000 배럴/일과 조정 EBITDA 33억 달러 전망을 제시했습니다.",
+   "impact": "유리",
+   "impact_reason_ko": "바카무에르타 생산 확대와 에퀴노르 자산 인수 효과가 실적으로 확인돼 성장 스토리를 뒷받침합니다(단, 일부 2차 출처는 순이익 감소를 보도해 공식 6-K 확인 필요).",
+   "source": "El CEO",
+   "url": "https://elceo.com/negocios/vista-energy-aprovecha-altos-precios-petroleo-prepara-inversiones-para-2027/"
+  },
+  {
+   "ticker": "VIST",
+   "date": "2026-11-06",
+   "headline_ko": "브렌트유 주간 -13%로 98달러대…2020년 3월 이후 최대 주간 낙폭",
+   "summary_ko": "중동(호르무즈 해협) 외교적 해법 기대와 걸프 원유 수출 회복으로 브렌트유가 약 98달러로 떨어지며 한 주간 13% 넘게 하락했습니다. 다만 선박 공격은 계속되고 있어 공급 리스크는 남아 있습니다.",
+   "impact": "불리",
+   "impact_reason_ko": "비스타는 생산량 대부분을 수출 패리티 가격에 판매하는 원유 생산업체라 유가 하락은 매출·현금흐름에 직접 부담입니다(회사 가이던스 가정은 2026년 2~4분기 브렌트 85달러).",
+   "source": "Trading Economics (Brent Crude Oil)",
+   "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+  },
+  {
+   "ticker": "VST",
+   "date": "2026-11-06",
+   "headline_ko": "비스트라 3분기 조정 EBITDA 50% 증가…2027년 가이던스 첫 제시, 자사주 15억 달러 추가",
+   "summary_ko": "비스트라는 3분기 순이익 11.4억 달러, 영업 조정 EBITDA 23.78억 달러(전년 15.81억 달러)를 발표하고 2026년 EBITDA 가이던스를 71~75억 달러로 좁히며 중간값을 올렸고, 2027년 77~85억 달러를 새로 제시했습니다. 코젠트릭스(약 5,500MW 가스발전) 인수 완료, 자사주 매입 15억 달러 추가 승인도 발표했습니다.",
+   "impact": "유리",
+   "impact_reason_ko": "전력 수요 증가가 실적과 내년 가이던스로 이어지고 주주환원이 확대돼 'AI 전력 수요' 투자 논리를 뒷받침합니다.",
+   "source": "SEC EDGAR (Vistra Form 8-K 실적 발표문)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001692819/000169281926000023/vistra-20260930xearningsre.htm"
+  },
+  {
+   "ticker": "VST",
+   "date": "2026-10-22",
+   "headline_ko": "메타 실적 후 AI 인프라주 매도…비스트라 하루 -9.8%",
+   "summary_ko": "메타가 2026년 설비투자 하단을 1,350억 달러로 높이자 데이터센터 확장 비용 우려로 AI 관련주가 매도됐고, 비스트라는 10월 22일 9.81% 하락한 140.83달러로 마감했습니다. 같은 날 HSBC는 '매수'·목표가 190달러로 커버리지를 개시했습니다.",
+   "impact": "불리",
+   "impact_reason_ko": "하이퍼스케일러의 AI 투자 지속성에 대한 의구심은 데이터센터 전력 계약 기대가 반영된 비스트라 주가에 하방 압력이 됩니다.",
+   "source": "TIKR",
+   "url": "https://www.tikr.com/blog/vistra-stock-fell-nearly-10-in-a-day-after-metas-earnings-heres-why-its-forecast-already-discounts-the-data-center-hype"
+  },
+  {
+   "ticker": "SPGI",
+   "date": "2026-10-27",
+   "headline_ko": "S&P글로벌 3분기 조정 EPS 4.58달러(+9%)…연간 가이던스 상향, 올해 자사주 70억 달러 이상",
+   "summary_ko": "3분기 매출 36.78억 달러(+7%), 조정 EPS 4.58달러(+9%)를 기록했으며 지수(Indices) 부문이 +20%로 성장을 이끌었고 신용평가(Ratings)는 +2%에 그쳤습니다. 2026년 조정 EPS 가이던스를 17.70~17.95달러로, 유기적 매출성장률을 7.5~8.5%로 올렸고 연간 자사주 매입은 70억 달러 이상을 예상했습니다.",
+   "impact": "유리",
+   "impact_reason_ko": "지수·데이터 사업 성장과 가이던스 상향, 대규모 자사주 매입은 안정적 이익 성장이라는 투자 논리를 뒷받침합니다(신용평가 성장 둔화는 관찰 포인트).",
+   "source": "SEC EDGAR (S&P Global Form 8-K 실적 발표문)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0000064040/000006404026000053/spgi3q2026-earningsrelease.htm"
+  },
+  {
+   "ticker": "SPGI",
+   "date": "2026-10-27",
+   "headline_ko": "S&P글로벌, 캐피털IQ 등 데이터 사업 '전략적 검토' 착수",
+   "summary_ko": "S&P글로벌은 시장정보(Market Intelligence) 부문 내 Kensho Data & Platforms에 속한 Capital IQ 및 관련 데이터 사업에 대한 전략적 검토를 발표했습니다. 매각 등 구체적 결과는 아직 발표되지 않았습니다.",
+   "impact": "중립",
+   "impact_reason_ko": "사업 포트폴리오 재편 가능성은 가치 제고 요인이 될 수도 있지만, 결과와 조건이 정해지지 않아 영향은 아직 판단하기 어렵습니다.",
+   "source": "SEC EDGAR (S&P Global Form 8-K 실적 발표문)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0000064040/000006404026000053/spgi3q2026-earningsrelease.htm"
+  },
+  {
+   "ticker": "MACRO",
+   "date": "2026-11-05",
+   "headline_ko": "미 중간선거 후 'AI 규제' 우려에 글로벌 기술주 급락…S&P500 -4.4%",
+   "summary_ko": "11월 3일 중간선거 이후 민주당 우세에 따른 AI 규제·데이터센터 감독 강화 우려로 11월 5일 S&P500이 4.4%, 나스닥이 5.5% 하락했습니다. 앞서 10월 30일에는 알파벳·아마존의 실망스러운 실적으로 AI 투자 재원·수익성 의문이 커진 상태였습니다(선거 최종 결과는 본 조사에서 1차 출처로 확인하지 못함).",
+   "impact": "불리",
+   "impact_reason_ko": "반도체 ETF 2종과 비스트라 모두 'AI 설비투자 확대'에 기대는 종목이라 AI capex 둔화 우려는 포트폴리오 전반에 부담입니다.",
+   "source": "Trading Economics; The Star (Reuters)",
+   "url": "https://tradingeconomics.com/united-states/stock-market"
+  },
+  {
+   "ticker": "MACRO",
+   "date": "2026-10-28",
+   "headline_ko": "미 연준 기준금리 3.75~4.00% 동결…2명은 인상 주장",
+   "summary_ko": "FOMC는 10월 28일 10대 2로 금리를 동결했고 쿡·해맥 위원은 0.25%p 인상을 주장했습니다. 성명은 '인플레이션이 여전히 높다'고 밝혔으며, 9월에는 0.25%p 인상이 있었습니다.",
+   "impact": "불리",
+   "impact_reason_ko": "추가 인상 가능성이 열려 있는 고금리 환경은 고밸류 성장주(반도체·AI 전력주)의 밸류에이션에 부담입니다.",
+   "source": "investingLive",
+   "url": "https://investinglive.com/central-banks/the-full-statement-from-the-october-2026-fomc-rate-decision/"
+  },
+  {
+   "ticker": "MACRO",
+   "date": "2026-10-22",
+   "headline_ko": "한국은행 기준금리 연 3.00% 만장일치 동결…11월 26일 올해 마지막 금통위",
+   "summary_ko": "한국은행은 7·8월 두 차례 인상 후 10월 22일 기준금리를 3.00%로 동결했습니다. 중동 긴장과 수출 호조에 따른 물가 압력으로 시장은 11월 추가 인상 여부에 주목하고 있습니다.",
+   "impact": "중립",
+   "impact_reason_ko": "동결은 단기 충격이 없지만 추가 인상 시 국내 증시 유동성과 원화 강세(해외자산 원화 환산가치 하락) 요인이 될 수 있습니다.",
+   "source": "Trading Economics; QNA",
+   "url": "https://tradingeconomics.com/south-korea/interest-rate/news/593988"
+  },
+  {
+   "ticker": "MACRO",
+   "date": "2026-11-06",
+   "headline_ko": "원·달러 환율 1,364원 안팎…기술주 급락·외국인 매도에 원화 4주 저점권",
+   "summary_ko": "11월 6일 원·달러 환율은 약 1,363.8원(전일 대비 +0.41%)으로, AI발 기술주 급락과 외국인의 한국 주식 매도로 원화가 4주 저점 부근에서 움직였습니다. 2026년 상반기 고점(1,500원대)보다는 크게 낮은 수준입니다.",
+   "impact": "중립",
+   "impact_reason_ko": "원화 약세는 미국 주식(VIST·VST·SPGI)의 원화 환산가치를 높이지만, 외국인 이탈 신호이기도 해 국내 반도체 ETF에는 부담이 되는 양면적 요인입니다.",
+   "source": "Trading Economics (South Korea Currency)",
+   "url": "https://tradingeconomics.com/south-korea/currency"
+  }
+ ],
+ "fees": {
+  "toss_domestic_commission_pct": 0.015,
+  "toss_domestic_commission_note": "KRX(코스피·코스닥) 0.015%, 넥스트레이드 0.014%. 2025년 12월~2026년 6월 무료 이벤트 후 2026년 7월부터 유료 전환된 것으로 블로그들이 일치해 보도(토스증권 공식 공지 미확인). 유관기관 제비용 약 0.0036% 별도.",
+  "toss_overseas_commission_pct": 0.1,
+  "toss_overseas_commission_note": "미국 주식 매수·매도 각 0.1%. 이벤트성이던 0.1%를 2025년 10월부터 상시 적용한다는 블로그 보도(공식 공지 미확인).",
+  "toss_fx_spread_note": "기본 스프레드 1%에 우대 적용: 국내 영업일 09:00~15:30 정규시간 95% 우대(실질 0.05%), 그 외 시간·주말·공휴일 50% 우대(실질 0.5%). 2026년 4월 22일 정책 변경 기준이라는 블로그 정리이며 토스증권 공식 수수료 페이지로 미확인. 주식모으기 등 야간 자동환전은 0.5%가 적용될 수 있음.",
+  "us_sec_fee_note": "미국 주식 매도 시 SEC Section 31 수수료: 2026년 4월 4일부터 거래대금 100만 달러당 20.60달러(=0.00206%). FY2027 SEC 예산법 제정 후 60일까지 유지되며 FY2027 요율은 아직 미발표. (FINRA TAF는 별도, 금액 미조사)",
+  "kr_securities_transaction_tax_pct_kospi": 0.05,
+  "kr_kospi_total_with_rural_tax_pct": 0.2,
+  "kr_kosdaq_securities_transaction_tax_pct": 0.2,
+  "kr_securities_tax_note": "2026년 1월 1일 체결분부터 코스피 증권거래세 0.05% + 농어촌특별세 0.15% = 실질 0.20%, 코스닥 0.20%(농특세 없음). 매도 시에만 부과. 정부의 추가 인하안은 철회됨.",
+  "kr_etf_transaction_tax_note": "국내 상장 ETF는 매도 시 증권거래세 면제(TIGER 반도체TOP10, PLUS 글로벌HBM반도체 모두 해당).",
+  "overseas_cap_gains_tax": "해외주식(VIST·VST·SPGI 등) 양도소득세: 연간 순양도차익 중 250만원 기본공제 후 22%(지방세 포함), 다음 해 5월 자진 신고·납부. 무신고 시 20%, 과소신고 시 10% 가산세. 배당은 미국 원천징수 15%(국내 추가과세 차액 원칙).",
+  "domestic_equity_etf_tax": "TIGER 반도체TOP10(국내주식형 ETF): 매매차익 비과세, 분배금 배당소득세 15.4%.",
+  "foreign_asset_domestic_etf_tax": "국내 상장 해외주식형(기타) ETF: 매매차익과 분배금 모두 배당소득세 15.4%(14%+지방세 1.4%), 250만원 공제 없음, 금융소득종합과세(연 2,000만원 초과) 합산 대상. PLUS 글로벌HBM반도체는 해외주식 비중이 커 이 과세 유형에 해당할 가능성이 높으나 운용사 공식 분류는 미확인. 매매차익 과세 시 '과표기준가 증가분과 실제 매매차익 중 작은 금액' 기준이라는 점은 본 조사에서 1차 출처로 확인하지 못함.",
+  "sources": [
+   "https://brunch.co.kr/@coygray/618",
+   "https://wikidocs.net/blog/@insightbridge/18253/",
+   "https://wikidocs.net/blog/@infoplant/20020/",
+   "https://bullstory.io/blog/토스증권-환전수수료-완전-정리-언제-바꾸면-10배-차이-나는가-2026",
+   "https://www.sec.gov/rules-regulations/fee-rate-advisories/2026-2",
+   "https://studygov.kr/blog/0337-2026-stock-transaction-tax/",
+   "https://economist.co.kr/article/view/ecn202512220061",
+   "https://kbthink.com/etf/etf-tax.html",
+   "https://wikidocs.net/blog/@Insight_Lab/23800/"
+  ],
+  "unverified": [
+   "토스증권 국내·해외 수수료율 및 환전 우대율은 모두 블로그/2차 출처 기반이며 토스증권 공식 수수료 안내 페이지로 직접 확인하지 못함",
+   "2026년 하반기 이후 토스증권 수수료·환전 정책의 추가 변경 여부 미확인",
+   "SEC Section 31 FY2027 요율 미발표(현행 $20.60/백만달러 유지 중으로 판단)",
+   "FINRA TAF 등 기타 미국 매도 비용 미조사",
+   "PLUS 글로벌HBM반도체의 세법상 분류(기타 ETF 여부)와 과표기준가 과세 방식은 운용사/국세청 1차 자료로 미확인",
+   "증권거래세율은 뉴스·블로그로 교차 확인했으나 법령 원문은 미확인"
+  ]
+ },
+ "rates": {
+  "bok_base_rate_pct": 3.0,
+  "bok_last_decision_date": "2026-10-22 (동결, 만장일치; 7월 2.75%, 8월 3.00%로 연속 인상 후 첫 동결)",
+  "bok_next_meeting": "2026-11-26",
+  "fed_funds_target_range": "3.75%–4.00%",
+  "fomc_last_decision_date": "2026-10-28 (동결, 10대 2; 쿡·해맥 0.25%p 인상 주장; 9월 16일 0.25%p 인상)",
+  "fomc_next_meeting": "2026-12-08~09 (결정 발표 12월 9일 오후 2시 ET = 한국시간 12월 10일 새벽 4시, 점도표 포함)",
+  "sources": [
+   "https://tradingeconomics.com/south-korea/interest-rate/news/593988",
+   "https://qna.org.qa/en/News-Area/News/2026-10/22/bank-of-korea-holds-key-rate-steady-at-3",
+   "https://en.bloomingbit.io/feed/news/122708",
+   "https://investinglive.com/central-banks/the-full-statement-from-the-october-2026-fomc-rate-decision/",
+   "https://www.federalreserve.gov/newsevents/2026-december.htm",
+   "https://fedratecalc.com/fomc-meeting-schedule/december-2026/"
+  ],
+  "notes": "한국은행 공식 보도자료와 연준 공식 성명 원문은 직접 열람하지 못했고, 다수 뉴스 출처가 일치하는 내용으로 정리함.",
+  "fomc_next_decision": "2026-12-09"
+ },
+ "calendar": [
+  {
+   "date": "2026-11-10",
+   "event_ko": "미국 10월 소비자물가지수(CPI) 발표 (08:30 ET, 한국시간 22:30)",
+   "why_ko": "연준이 '인플레이션이 여전히 높다'며 인상 소수의견까지 나온 상황이라 CPI 결과가 12월 FOMC 인상 여부와 성장주·원달러 환율에 영향을 줄 수 있습니다. (BLS 공식 일정 페이지로는 미확인, 복수 캘린더 기준)",
+   "related": "반도체 ETF, 비스트라"
+  },
+  {
+   "date": "2026-11-16",
+   "event_ko": "기관투자자 3분기 13F 공시 마감(추정: 9/30 기준 45일, 11/14가 토요일이라 다음 영업일)",
+   "why_ko": "Thiel Macro의 9월 말 기준 VIST·VST 보유 변동 여부가 공개됩니다. (마감일 계산은 추정)",
+   "related": "비스타 에너지, 비스트라"
+  },
+  {
+   "date": "2026-11-17",
+   "event_ko": "엔비디아 3분기(FY2027) 실적 발표 (장 마감 후, 한국시간 11월 18일 오전)",
+   "why_ko": "AI 투자 사이클의 바로미터로, HBM 수요(SK하이닉스·삼성전자·마이크론)와 데이터센터 전력 수요(비스트라) 기대에 직접 영향을 줍니다.",
+   "related": "PLUS 글로벌HBM반도체, TIGER 반도체TOP10, 비스트라"
+  },
+  {
+   "date": "2026-11-18",
+   "event_ko": "10월 FOMC 의사록 공개 (추정: 회의 3주 후 관례, 공식 일정 미확인)",
+   "why_ko": "12월 금리 인상 가능성에 대한 위원들의 논의가 공개돼 금리·환율 기대를 바꿀 수 있습니다.",
+   "related": "전체, 원/달러"
+  },
+  {
+   "date": "2026-11-21",
+   "event_ko": "관세청 11월 1~20일 수출 (추정, 공식 일정 미확인)",
+   "why_ko": "반도체 수출 증가율은 국내 반도체 ETF의 가장 직접적인 월중 지표입니다.",
+   "related": "TIGER 반도체TOP10, PLUS 글로벌HBM반도체"
+  },
+  {
+   "date": "2026-11-26",
+   "event_ko": "한국은행 금융통화위원회 기준금리 결정 (올해 마지막)",
+   "why_ko": "추가 인상 여부가 국내 증시 수급과 원달러 환율(미국주식 원화 환산가치)에 영향을 줍니다.",
+   "related": "TIGER 반도체TOP10, 달러 자산 원화 평가액"
+  },
+  {
+   "date": "2026-12-01",
+   "event_ko": "산업통상자원부 11월 수출입동향 (추정, 공식 일정 미확인)",
+   "why_ko": "반도체 품목 수출액과 단가 흐름을 확인할 수 있습니다.",
+   "related": "TIGER 반도체TOP10, PLUS 글로벌HBM반도체"
+  },
+  {
+   "date": "2026-12-09",
+   "event_ko": "FOMC 금리 결정 (한국시간 12월 10일 새벽)",
+   "why_ko": "인상 시 고밸류 성장주와 원화에 영향을 줄 수 있어 미리 체크할 일정입니다.",
+   "related": "전체, 원/달러"
+  }
+ ],
+ "thiel_check": {
+  "claim": "Peter Thiel / Thiel Macro bought Vistra (VST) or Vista Energy (VIST)",
+  "finding_ko": "사실로 확인됨(2분기 말 기준). Thiel Macro LLC가 2026년 8월 14일경 제출한 2026년 2분기(6월 30일 기준) 13F에 따르면 Vista Energy(VIST) ADS 약 1,189,792주(약 7,590만 달러, 신고 포트폴리오의 약 18%, 지분 약 1%)와 Vistra(VST) 372,755주(약 5,910만 달러, 약 14%)를 보유했습니다. 총 신고 포트폴리오는 약 4.19억 달러로 아마존, AEP, DTE, FirstEnergy, CMS Energy, X-energy 등 전력 관련 종목 위주였습니다. 다만 VST가 신규 매수인지 기존 보유 증액인지는 출처마다 엇갈립니다. 13F는 분기 말 미국 상장 롱 포지션만 45일 지연 공개하므로 현재(11월) 보유 여부나 매수 단가는 알 수 없으며, 3분기 13F(11월 중순 마감)는 아직 확인하지 못했습니다. SEC EDGAR 원문은 직접 열람하지 못했고 Reuters(Investing.com) 및 13F 집계 사이트 기준입니다.",
+  "sources": [
+   "https://www.investing.com/news/stock-market-news/billionaire-peter-thiel-buys-1-stake-in-argentine-vaca-muerta-oil-firm-filing-shows-4861892",
+   "https://www.intellinews.com/peter-thiel-s-milei-bromance-pays-off-with-76mn-argentina-shale-stake-461538/",
+   "https://parameter.io/vistra-vst-stock-gains-3-5-following-thiel-macros-59m-stake-disclosure/",
+   "https://www.insiderset.com/investor/thiel-macro-llc/holdings"
+  ]
+ },
+ "etf_holdings": {
+  "396500.KS": [
+   {
+    "name": "삼성전자",
+    "weight_pct": 27.2
+   },
+   {
+    "name": "SK하이닉스",
+    "weight_pct": 26.63
+   },
+   {
+    "name": "SK스퀘어",
+    "weight_pct": 25.18
+   },
+   {
+    "name": "한미반도체",
+    "weight_pct": 4.99
+   },
+   {
+    "name": "제주반도체(JEL로 표기)",
+    "weight_pct": 4.03
+   },
+   {
+    "name": "이수페타시스",
+    "weight_pct": 3.14
+   },
+   {
+    "name": "DB하이텍",
+    "weight_pct": 2.14
+   },
+   {
+    "name": "이오테크닉스",
+    "weight_pct": 2.14
+   },
+   {
+    "name": "리노공업",
+    "weight_pct": 2.07
+   },
+   {
+    "name": "원익IPS",
+    "weight_pct": 1.93
+   }
+  ],
+  "396500_meta": {
+   "source": "https://investments.miraeasset.com/tigeretf/en/product/search/detail/index.do?ksdFund=KR7396500001",
+   "note": "미래에셋자산운용 TIGER 영문 상품 페이지(조회 시각 2026-11-06 16:55, 구성 기준일 별도 표기 없음). 상위 10종목 합계 99.45%. NAV 24,899.6원(-8.62%), 순자산 약 7.06조원, 총보수 0.45%. 'JEL'은 영문 약칭으로 제주반도체로 추정(미확인). 3월~4월 언론 보도와 달리 SK스퀘어가 25%대로 크게 편입된 점은 지수 정기변경 영향으로 보이나 변경 시점은 미확인."
+  },
+  "442580.KS": [
+   {
+    "name": "삼성전자 (추정: PDF 한글 글꼴 미표시)",
+    "weight_pct": 25.31
+   },
+   {
+    "name": "SK하이닉스",
+    "weight_pct": 24.68
+   },
+   {
+    "name": "Micron Technology",
+    "weight_pct": 24.51
+   },
+   {
+    "name": "Applied Materials",
+    "weight_pct": 8.32
+   },
+   {
+    "name": "Lam Research",
+    "weight_pct": 8.29
+   },
+   {
+    "name": "Sandisk",
+    "weight_pct": 4.95
+   },
+   {
+    "name": "Teradyne",
+    "weight_pct": 1.29
+   },
+   {
+    "name": "Direxion Daily MU Bull 2X ETF",
+    "weight_pct": 1.19
+   },
+   {
+    "name": "(종목명 판독 불가 – 한글 표기 항목)",
+    "weight_pct": 0.87
+   },
+   {
+    "name": "(종목명 판독 불가 – 한글 표기 항목)",
+    "weight_pct": 0.6
+   }
+  ],
+  "442580_meta": {
+   "source": "https://www.plusetf.co.kr/upload/fund/PLUS_글로벌HBM반도체_20260930.pdf",
+   "note": "한화자산운용 PLUS ETF 월간 운용보고서(2026-09-30 기준). 기초지수 iSelect 글로벌 DRAM반도체 지수, 연 4회(2·5·8·11월) 정기변경 — 11월 리밸런싱으로 비중이 바뀔 수 있음. 순자산 약 1조 7,560억원, NAV 106,105.65원, 총보수 0.5%(운용사 공시 기준). 1위 종목명은 PDF에서 한글이 렌더링되지 않아 삼성전자로 추정했으며, 운용사가 2026년 5월 '삼성전자·SK하이닉스·마이크론·샌디스크 합계 약 82%'라고 밝힌 것과 정합적임."
+  },
+  "overlap_note_ko": "두 ETF 모두 삼성전자·SK하이닉스 비중이 매우 높아 중복이 큽니다. TIGER 반도체TOP10은 삼성전자 27.2% + SK하이닉스 26.6%에 SK하이닉스의 최대주주인 SK스퀘어 25.2%까지 더하면 사실상 SK하이닉스·삼성전자 관련 노출이 약 79%이고, PLUS 글로벌HBM반도체도 삼성전자(추정) 25.3% + SK하이닉스 24.7%로 약 50%가 동일 종목입니다. 따라서 두 ETF를 함께 보유하면 메모리 반도체(특히 SK하이닉스·삼성전자) 단일 업황과 한국 증시 수급에 대한 집중도가 높아집니다. PLUS는 마이크론·샌디스크·장비주(어플라이드·램리서치)로 미국 노출이 일부 분산됩니다."
+ }
+}

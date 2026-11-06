@@ -1,0 +1,5 @@
+# 수집 결과에는 실제 보유 내역이 반영될 수 있어 올리지 않음
+data/
+publish/
+__pycache__/
+.DS_Store

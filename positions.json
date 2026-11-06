@@ -1,0 +1,54 @@
+{
+ "asof": "2026-11-06",
+ "note": "예시 포트폴리오. 실제 보유 내역은 GitHub Secret POSITIONS_JSON 또는 로컬 positions.json으로 넣는다. avg_cost는 종목 통화 기준 평균단가, cost_fx_overseas는 해외주식 매수 평균 환율.",
+ "cost_fx_overseas": 1399.7,
+ "positions": [
+  {
+   "ticker": "396500.KS",
+   "name": "TIGER 반도체TOP10",
+   "qty": 1860,
+   "avg_cost": 33143.9,
+   "currency": "KRW",
+   "theme": "반도체",
+   "etf_tax": "domestic_equity",
+   "semis_lookthrough": 1.0
+  },
+  {
+   "ticker": "442580.KS",
+   "name": "PLUS 글로벌HBM반도체",
+   "qty": 300,
+   "avg_cost": 91255.0,
+   "currency": "KRW",
+   "theme": "반도체",
+   "etf_tax": "taxed",
+   "semis_lookthrough": 1.0
+  },
+  {
+   "ticker": "SPGI",
+   "name": "S&P 글로벌",
+   "qty": 32.6117,
+   "avg_cost": 423.77,
+   "currency": "USD",
+   "theme": "금융데이터",
+   "semis_lookthrough": 0
+  },
+  {
+   "ticker": "VIST",
+   "name": "비스타 에너지",
+   "qty": 40,
+   "avg_cost": 79.09,
+   "currency": "USD",
+   "theme": "원유·가스",
+   "semis_lookthrough": 0
+  },
+  {
+   "ticker": "VST",
+   "name": "비스트라 에너지",
+   "qty": 20,
+   "avg_cost": 150.04,
+   "currency": "USD",
+   "theme": "AI 전력",
+   "semis_lookthrough": 0
+  }
+ ]
+}

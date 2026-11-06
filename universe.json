@@ -1,0 +1,204 @@
+{
+ "note": "비교 후보군. 추천 목록이 아니라 '쏠림을 얼마나 줄이나'를 같은 기준으로 재기 위한 대표 지수·자산군 모음. 섹터 ETF는 고르는 사람의 편향이 들어가서 넣지 않음. semis_lookthrough는 ETF 안의 반도체 편입 비중 추정치(운용사 공시로 확인 필요).",
+ "candidates": [
+  {
+   "ticker": "069500.KS",
+   "name": "KODEX 200",
+   "market": "KR",
+   "category": "국내 대표지수",
+   "exposure": "국내 주식",
+   "etf_tax": "domestic_equity",
+   "semis_lookthrough": 0.38
+  },
+  {
+   "ticker": "161510.KS",
+   "name": "ARIRANG 고배당주",
+   "market": "KR",
+   "category": "국내 배당주",
+   "exposure": "국내 배당주",
+   "etf_tax": "domestic_equity",
+   "semis_lookthrough": 0.05
+  },
+  {
+   "ticker": "360750.KS",
+   "name": "TIGER 미국S&P500",
+   "market": "KR",
+   "category": "미국 대표지수",
+   "exposure": "미국 대형주",
+   "etf_tax": "taxed",
+   "semis_lookthrough": 0.12
+  },
+  {
+   "ticker": "VOO",
+   "name": "Vanguard S&P 500",
+   "market": "US",
+   "category": "미국 대표지수",
+   "exposure": "미국 대형주",
+   "semis_lookthrough": 0.12
+  },
+  {
+   "ticker": "133690.KS",
+   "name": "TIGER 미국나스닥100",
+   "market": "KR",
+   "category": "미국 기술주",
+   "exposure": "미국 기술주",
+   "etf_tax": "taxed",
+   "semis_lookthrough": 0.25
+  },
+  {
+   "ticker": "QQQ",
+   "name": "Invesco QQQ",
+   "market": "US",
+   "category": "미국 기술주",
+   "exposure": "미국 기술주",
+   "semis_lookthrough": 0.25
+  },
+  {
+   "ticker": "458730.KS",
+   "name": "TIGER 미국배당다우존스",
+   "market": "KR",
+   "category": "미국 배당주",
+   "exposure": "미국 배당주",
+   "etf_tax": "taxed",
+   "semis_lookthrough": 0.04
+  },
+  {
+   "ticker": "SCHD",
+   "name": "Schwab 미국배당",
+   "market": "US",
+   "category": "미국 배당주",
+   "exposure": "미국 배당주",
+   "semis_lookthrough": 0.04
+  },
+  {
+   "ticker": "ACWI",
+   "name": "iShares 전세계 주식",
+   "market": "US",
+   "category": "전세계 주식",
+   "exposure": "전세계 주식",
+   "semis_lookthrough": 0.1
+  },
+  {
+   "ticker": "148070.KS",
+   "name": "KOSEF 국고채10년",
+   "market": "KR",
+   "category": "국내 채권",
+   "exposure": "국내 채권",
+   "etf_tax": "taxed",
+   "semis_lookthrough": 0
+  },
+  {
+   "ticker": "305080.KS",
+   "name": "TIGER 미국채10년선물",
+   "market": "KR",
+   "category": "미국 채권",
+   "exposure": "미국 중기채",
+   "etf_tax": "taxed",
+   "semis_lookthrough": 0
+  },
+  {
+   "ticker": "IEF",
+   "name": "미국채 7-10년",
+   "market": "US",
+   "category": "미국 채권",
+   "exposure": "미국 중기채",
+   "semis_lookthrough": 0
+  },
+  {
+   "ticker": "TLT",
+   "name": "미국채 20년+",
+   "market": "US",
+   "category": "미국 장기채",
+   "exposure": "미국 장기채",
+   "semis_lookthrough": 0
+  },
+  {
+   "ticker": "411060.KS",
+   "name": "ACE KRX금현물",
+   "market": "KR",
+   "category": "금",
+   "exposure": "금",
+   "etf_tax": "taxed",
+   "semis_lookthrough": 0
+  },
+  {
+   "ticker": "GLD",
+   "name": "SPDR 금",
+   "market": "US",
+   "category": "금",
+   "exposure": "금",
+   "semis_lookthrough": 0
+  },
+  {
+   "ticker": "153130.KS",
+   "name": "KODEX 단기채권",
+   "market": "KR",
+   "category": "현금성",
+   "exposure": "현금성",
+   "etf_tax": "taxed",
+   "semis_lookthrough": 0
+  }
+ ],
+ "market": [
+  {
+   "ticker": "^SOX",
+   "label": "필라델피아 반도체",
+   "unit": "pt",
+   "why": "미국 반도체 흐름은 한국 시간 다음 날 반도체 ETF 두 개에 반영되는 경우가 많습니다."
+  },
+  {
+   "ticker": "^KS11",
+   "label": "코스피",
+   "unit": "pt",
+   "why": "계좌의 70% 이상이 국내 반도체라 코스피 급락일은 계좌 급락일과 거의 겹칩니다."
+  },
+  {
+   "ticker": "KRW=X",
+   "label": "원/달러",
+   "unit": "원",
+   "why": "오르면(원화 약세) S&P 글로벌·비스트라·비스타와, 해외 종목을 담은 PLUS 글로벌HBM반도체의 원화 평가액이 올라가고, 내리면 반대입니다."
+  },
+  {
+   "ticker": "^VIX",
+   "label": "VIX 공포지수",
+   "unit": "pt",
+   "why": "미국 시장의 공포 수준. 기준표의 '시장 공포' 규칙에 쓰입니다."
+  },
+  {
+   "ticker": "^TNX",
+   "label": "미 10년물 금리",
+   "unit": "%",
+   "why": "오르면 미래 이익 비중이 큰 반도체·AI 전력주(비스트라)의 평가가 눌리는 경향이 있습니다."
+  },
+  {
+   "ticker": "NQ=F",
+   "label": "나스닥100 선물",
+   "unit": "pt",
+   "why": "밤사이 미국 기술주 분위기. 장 시작 전 한국 반도체 흐름을 가늠할 때 봅니다."
+  },
+  {
+   "ticker": "^GSPC",
+   "label": "S&P 500",
+   "unit": "pt",
+   "why": "S&P 글로벌의 지수 사용료는 지수 수준과 추종 자금에 연동됩니다."
+  },
+  {
+   "ticker": "BZ=F",
+   "label": "브렌트 유가",
+   "unit": "$",
+   "why": "비스타 에너지는 브렌트 기준 수출 가격으로 원유를 팝니다. 매출에 직결됩니다."
+  },
+  {
+   "ticker": "CL=F",
+   "label": "WTI 유가",
+   "unit": "$",
+   "why": "미국 유가. 브렌트와 함께 원유 시장 전체 흐름을 봅니다(비스타는 브렌트 기준)."
+  },
+  {
+   "ticker": "NG=F",
+   "label": "미 천연가스",
+   "unit": "$",
+   "why": "비스트라 가스발전의 연료비이자 텍사스·PJM 전력 가격을 정하는 주요 변수입니다. 가스가 오르면 전력 가격이 따라 올라 원전 마진이 커지는 구조입니다."
+  }
+ ]
+}
